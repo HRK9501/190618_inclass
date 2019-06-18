@@ -1,4 +1,4 @@
-![TRAA Logo](../images/traa_logo-MATER.jpg)
+![TRAA Logo](/images/traa_logo-MATER.jpg)
 
 # TRAA Midterm Review
 
