@@ -1,4 +1,4 @@
-![TRAA Logo](/images/traa_logo-MATER.jpg)
+![TRAA Logo](images/traa_logo-MASTER.jpg)
 
 # TRAA Midterm Review
 
@@ -25,8 +25,8 @@ cd to the directory of your choice, clone, and hack away!
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Hyeryn Kim  
+[@Hyeryn Kim](https://www.instagram.com/?hl=ko)
 
 
 ## License
